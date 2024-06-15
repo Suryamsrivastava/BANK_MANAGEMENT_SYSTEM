@@ -127,7 +127,7 @@ By verifying passwords before granting access to sensitive operations, this appr
 However, it's important to note that this approach is a simplified example for educational purposes. In real-world applications, password handling and security measures should be more robust, involving techniques like secure hashing and encryption to protect sensitive information.
 
 ### Author
-This banking management system was created by Nikhilesh Sirohi, a student at Madan Mohan Malaviya University of Technology, Gorakhpur.
+This banking management system was created by Suryam Srivastava, a student at Madan Mohan Malaviya University of Technology, Gorakhpur.
 
 
 
